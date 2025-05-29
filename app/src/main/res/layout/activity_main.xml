@@ -14,7 +14,7 @@
         android:text="0"
         android:textSize="36sp"
         android:padding="16dp"
-        android:background="#263238"
+        android:background="#263237"
         android:textColor="#FFFFFF"
         android:gravity="end|center_vertical" />
 
